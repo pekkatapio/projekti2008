@@ -3,7 +3,7 @@
 <AGSEditorDocument Version="3.0.2.2">
   <Game>
     <Settings>
-      <GameName>asd</GameName>
+      <GameName>projekti</GameName>
       <UniqueID>7110125</UniqueID>
       <GUIDAsString>{d5207d4f-b67b-4efa-a547-2c1796501622}</GUIDAsString>
       <ColorDepth>TrueColor</ColorDepth>
@@ -58,7 +58,7 @@
       <DeveloperURL />
       <EnhancedSaveGames>False</EnhancedSaveGames>
       <SaveGameFileExtension />
-      <SaveGameFolderName>asd</SaveGameFolderName>
+      <SaveGameFolderName>projekti</SaveGameFolderName>
       <BinaryFilesInSourceControl>True</BinaryFilesInSourceControl>
     </Settings>
     <InventoryHotspotMarker>
