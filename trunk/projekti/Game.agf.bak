@@ -639,6 +639,14 @@
         <Number>10</Number>
         <Description IsNull="True" />
       </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>11</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>12</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
     </Rooms>
     <GUIs>
       <GUIMain>
@@ -1655,7 +1663,7 @@
         <IdleView>0</IdleView>
         <ThinkingView>0</ThinkingView>
         <BlinkingView>0</BlinkingView>
-        <StartingRoom>1</StartingRoom>
+        <StartingRoom>10</StartingRoom>
         <StartX>60</StartX>
         <StartY>230</StartY>
         <UniformMovementSpeed>True</UniformMovementSpeed>
