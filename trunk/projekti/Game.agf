@@ -62,10 +62,10 @@
       <BinaryFilesInSourceControl>True</BinaryFilesInSourceControl>
     </Settings>
     <InventoryHotspotMarker>
-      <Style>Sprite</Style>
+      <Style>None</Style>
       <DotColor>0</DotColor>
       <CrosshairColor>0</CrosshairColor>
-      <Image>6</Image>
+      <Image>0</Image>
     </InventoryHotspotMarker>
     <LipSync>
       <Type>None</Type>
@@ -609,6 +609,30 @@
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>3</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>4</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>5</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>6</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>7</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>8</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>9</Number>
         <Description IsNull="True" />
       </UnloadedRoom>
     </Rooms>
@@ -1437,8 +1461,8 @@
       </InventoryItem>
       <InventoryItem>
         <ID>4</ID>
-        <HotspotX>0</HotspotX>
-        <HotspotY>0</HotspotY>
+        <HotspotX>9</HotspotX>
+        <HotspotY>2</HotspotY>
         <PlayerStartsWithItem>False</PlayerStartsWithItem>
         <Image>7</Image>
         <Description xml:space="preserve">New inventory item</Description>
