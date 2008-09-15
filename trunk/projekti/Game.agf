@@ -601,83 +601,83 @@
     <Rooms>
       <UnloadedRoom>
         <Number>1</Number>
-        <Description IsNull="True" />
+        <Description>luokka</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>2</Number>
-        <Description IsNull="True" />
+        <Description>Servuhuone</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>3</Number>
-        <Description IsNull="True" />
+        <Description>alakertakäytävä1</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>4</Number>
-        <Description IsNull="True" />
+        <Description>Veski</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>5</Number>
-        <Description IsNull="True" />
+        <Description>Keittiö</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>6</Number>
-        <Description IsNull="True" />
+        <Description>kirjasto</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>7</Number>
-        <Description IsNull="True" />
+        <Description>alakertakäytävä2</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>8</Number>
-        <Description IsNull="True" />
+        <Description>portaat</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>9</Number>
-        <Description IsNull="True" />
+        <Description>portaat</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>10</Number>
-        <Description IsNull="True" />
+        <Description>aula</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>11</Number>
-        <Description IsNull="True" />
+        <Description>anmu</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>12</Number>
-        <Description IsNull="True" />
+        <Description>käytävä1</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>13</Number>
-        <Description IsNull="True" />
+        <Description>ruokalakäytävä</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>14</Number>
-        <Description IsNull="True" />
+        <Description>forsseliussali</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>15</Number>
-        <Description IsNull="True" />
+        <Description>siivouskomero</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>16</Number>
-        <Description IsNull="True" />
+        <Description>luokka</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>17</Number>
-        <Description IsNull="True" />
+        <Description>luokka</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>18</Number>
-        <Description IsNull="True" />
+        <Description>feikkiservu</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>19</Number>
-        <Description IsNull="True" />
+        <Description>ramstedtroom</Description>
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>20</Number>
-        <Description IsNull="True" />
+        <Description>terveydenhoitaja</Description>
       </UnloadedRoom>
     </Rooms>
     <GUIs>
