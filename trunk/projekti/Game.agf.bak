@@ -647,6 +647,18 @@
         <Number>12</Number>
         <Description IsNull="True" />
       </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>13</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>14</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>15</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
     </Rooms>
     <GUIs>
       <GUIMain>
