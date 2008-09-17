@@ -1446,8 +1446,8 @@
             <Text>No</Text>
             <Height>18</Height>
             <Width>37</Width>
-            <Left>54</Left>
-            <Top>31</Top>
+            <Left>52</Left>
+            <Top>29</Top>
             <ZOrder>2</ZOrder>
             <ID>2</ID>
             <Name>btnRestartNo</Name>
