@@ -679,6 +679,10 @@
         <Number>20</Number>
         <Description>terveydenhoitaja</Description>
       </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>21</Number>
+        <Description>Laniluola</Description>
+      </UnloadedRoom>
     </Rooms>
     <GUIs>
       <GUIMain>
