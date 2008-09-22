@@ -62,10 +62,10 @@
       <BinaryFilesInSourceControl>True</BinaryFilesInSourceControl>
     </Settings>
     <InventoryHotspotMarker>
-      <Style>None</Style>
+      <Style>Sprite</Style>
       <DotColor>0</DotColor>
       <CrosshairColor>0</CrosshairColor>
-      <Image>0</Image>
+      <Image>1506</Image>
     </InventoryHotspotMarker>
     <LipSync>
       <Type>None</Type>
@@ -1526,8 +1526,8 @@
       </InventoryItem>
       <InventoryItem>
         <ID>5</ID>
-        <HotspotX>18</HotspotX>
-        <HotspotY>11</HotspotY>
+        <HotspotX>22</HotspotX>
+        <HotspotY>2</HotspotY>
         <PlayerStartsWithItem>False</PlayerStartsWithItem>
         <Image>5</Image>
         <Description>Poissaolotodistus.</Description>
@@ -4577,6 +4577,11 @@ stop
           <Sprite Slot="2" Width="11" Height="4" ColorDepth="8" Resolution="LowRes" AlphaChannel="False" />
           <Sprite Slot="3" Width="11" Height="11" ColorDepth="8" Resolution="LowRes" AlphaChannel="False" />
           <Sprite Slot="5" Width="36" Height="26" ColorDepth="8" Resolution="LowRes" AlphaChannel="False" />
+          <Sprite Slot="1506" Width="39" Height="29" ColorDepth="32" Resolution="HighRes" AlphaChannel="False">
+            <Source>
+              <FileName>C:\Documents and Settings\toni.korpela\Työpöytä\poissaololappu.PNG</FileName>
+            </Source>
+          </Sprite>
         </Sprites>
       </SpriteFolder>
     </Sprites>
