@@ -1861,44 +1861,6 @@
       </Character>
       <Character>
         <ID>4</ID>
-        <ScriptName>cEgo</ScriptName>
-        <RealName>Mauripekka</RealName>
-        <NormalView>7</NormalView>
-        <SpeechView>0</SpeechView>
-        <IdleView>0</IdleView>
-        <ThinkingView>0</ThinkingView>
-        <BlinkingView>0</BlinkingView>
-        <StartingRoom>20</StartingRoom>
-        <StartX>95</StartX>
-        <StartY>160</StartY>
-        <UniformMovementSpeed>True</UniformMovementSpeed>
-        <MovementSpeed>3</MovementSpeed>
-        <MovementSpeedX>0</MovementSpeedX>
-        <MovementSpeedY>0</MovementSpeedY>
-        <AnimationDelay>4</AnimationDelay>
-        <SpeechColor>12</SpeechColor>
-        <Solid>True</Solid>
-        <Clickable>True</Clickable>
-        <UseRoomAreaScaling>True</UseRoomAreaScaling>
-        <UseRoomAreaLighting>True</UseRoomAreaLighting>
-        <TurnBeforeWalking>True</TurnBeforeWalking>
-        <DiagonalLoops>True</DiagonalLoops>
-        <AdjustSpeedWithScaling>False</AdjustSpeedWithScaling>
-        <AdjustVolumeWithScaling>False</AdjustVolumeWithScaling>
-        <Properties />
-        <Interactions>
-          <Event Index="0">cEgo_Look</Event>
-          <Event Index="1" />
-          <Event Index="2" />
-          <Event Index="3" />
-          <Event Index="4" />
-          <Event Index="5" />
-          <Event Index="6" />
-          <Event Index="7" />
-        </Interactions>
-      </Character>
-      <Character>
-        <ID>5</ID>
         <ScriptName>cPedobear</ScriptName>
         <RealName>pedobear</RealName>
         <NormalView>8</NormalView>
@@ -1936,7 +1898,7 @@
         </Interactions>
       </Character>
       <Character>
-        <ID>6</ID>
+        <ID>5</ID>
         <ScriptName>cPtaa</ScriptName>
         <RealName>ptaa</RealName>
         <NormalView>9</NormalView>
@@ -1974,7 +1936,7 @@
         </Interactions>
       </Character>
       <Character>
-        <ID>7</ID>
+        <ID>6</ID>
         <ScriptName>cPaski</ScriptName>
         <RealName>päski</RealName>
         <NormalView>10</NormalView>
@@ -2012,7 +1974,7 @@
         </Interactions>
       </Character>
       <Character>
-        <ID>8</ID>
+        <ID>7</ID>
         <ScriptName>cRamsted</ScriptName>
         <RealName>ramsted</RealName>
         <NormalView>11</NormalView>
@@ -2050,7 +2012,7 @@
         </Interactions>
       </Character>
       <Character>
-        <ID>9</ID>
+        <ID>8</ID>
         <ScriptName>cRandom1</ScriptName>
         <RealName>random</RealName>
         <NormalView>12</NormalView>
@@ -2088,7 +2050,7 @@
         </Interactions>
       </Character>
       <Character>
-        <ID>10</ID>
+        <ID>9</ID>
         <ScriptName>cSiivooja</ScriptName>
         <RealName>siivooja</RealName>
         <NormalView>13</NormalView>
@@ -2126,7 +2088,7 @@
         </Interactions>
       </Character>
       <Character>
-        <ID>11</ID>
+        <ID>10</ID>
         <ScriptName>cHottiskisu</ScriptName>
         <RealName>theresa</RealName>
         <NormalView>14</NormalView>
@@ -2164,7 +2126,7 @@
         </Interactions>
       </Character>
       <Character>
-        <ID>12</ID>
+        <ID>11</ID>
         <ScriptName>cRandom2</ScriptName>
         <RealName>täysrandom</RealName>
         <NormalView>15</NormalView>
@@ -2202,7 +2164,7 @@
         </Interactions>
       </Character>
       <Character>
-        <ID>13</ID>
+        <ID>12</ID>
         <ScriptName>cVesa_112</ScriptName>
         <RealName>vesa_112</RealName>
         <NormalView>16</NormalView>
@@ -2240,7 +2202,7 @@
         </Interactions>
       </Character>
       <Character>
-        <ID>14</ID>
+        <ID>13</ID>
         <ScriptName>cRandom3</ScriptName>
         <RealName>täysrandom</RealName>
         <NormalView>17</NormalView>
@@ -2278,7 +2240,7 @@
         </Interactions>
       </Character>
       <Character>
-        <ID>15</ID>
+        <ID>14</ID>
         <ScriptName>cZombi</ScriptName>
         <RealName>zombi</RealName>
         <NormalView>18</NormalView>
@@ -2316,23 +2278,23 @@
         </Interactions>
       </Character>
       <Character>
-        <ID>16</ID>
-        <ScriptName>cMailis</ScriptName>
-        <RealName>mailis</RealName>
-        <NormalView>19</NormalView>
+        <ID>15</ID>
+        <ScriptName>cEgo</ScriptName>
+        <RealName>ego</RealName>
+        <NormalView>7</NormalView>
         <SpeechView>0</SpeechView>
         <IdleView>0</IdleView>
         <ThinkingView>0</ThinkingView>
         <BlinkingView>0</BlinkingView>
         <StartingRoom>20</StartingRoom>
-        <StartX>240</StartX>
-        <StartY>193</StartY>
+        <StartX>95</StartX>
+        <StartY>160</StartY>
         <UniformMovementSpeed>True</UniformMovementSpeed>
         <MovementSpeed>3</MovementSpeed>
         <MovementSpeedX>0</MovementSpeedX>
         <MovementSpeedY>0</MovementSpeedY>
         <AnimationDelay>4</AnimationDelay>
-        <SpeechColor>2</SpeechColor>
+        <SpeechColor>12</SpeechColor>
         <Solid>True</Solid>
         <Clickable>True</Clickable>
         <UseRoomAreaScaling>True</UseRoomAreaScaling>
@@ -2345,7 +2307,83 @@
         <Interactions>
           <Event Index="0" />
           <Event Index="1" />
-          <Event Index="2">cMailis_Talk</Event>
+          <Event Index="2" />
+          <Event Index="3" />
+          <Event Index="4" />
+          <Event Index="5" />
+          <Event Index="6" />
+          <Event Index="7" />
+        </Interactions>
+      </Character>
+      <Character>
+        <ID>16</ID>
+        <ScriptName>cMailis</ScriptName>
+        <RealName>mailis</RealName>
+        <NormalView>21</NormalView>
+        <SpeechView>0</SpeechView>
+        <IdleView>0</IdleView>
+        <ThinkingView>0</ThinkingView>
+        <BlinkingView>0</BlinkingView>
+        <StartingRoom>20</StartingRoom>
+        <StartX>240</StartX>
+        <StartY>193</StartY>
+        <UniformMovementSpeed>True</UniformMovementSpeed>
+        <MovementSpeed>3</MovementSpeed>
+        <MovementSpeedX>0</MovementSpeedX>
+        <MovementSpeedY>0</MovementSpeedY>
+        <AnimationDelay>4</AnimationDelay>
+        <SpeechColor>12</SpeechColor>
+        <Solid>True</Solid>
+        <Clickable>True</Clickable>
+        <UseRoomAreaScaling>True</UseRoomAreaScaling>
+        <UseRoomAreaLighting>True</UseRoomAreaLighting>
+        <TurnBeforeWalking>True</TurnBeforeWalking>
+        <DiagonalLoops>True</DiagonalLoops>
+        <AdjustSpeedWithScaling>False</AdjustSpeedWithScaling>
+        <AdjustVolumeWithScaling>False</AdjustVolumeWithScaling>
+        <Properties />
+        <Interactions>
+          <Event Index="0" />
+          <Event Index="1" />
+          <Event Index="2" />
+          <Event Index="3" />
+          <Event Index="4" />
+          <Event Index="5" />
+          <Event Index="6" />
+          <Event Index="7" />
+        </Interactions>
+      </Character>
+      <Character>
+        <ID>17</ID>
+        <ScriptName>cVahtimestari</ScriptName>
+        <RealName>vahtimestari</RealName>
+        <NormalView>22</NormalView>
+        <SpeechView>0</SpeechView>
+        <IdleView>0</IdleView>
+        <ThinkingView>0</ThinkingView>
+        <BlinkingView>0</BlinkingView>
+        <StartingRoom>0</StartingRoom>
+        <StartX>160</StartX>
+        <StartY>120</StartY>
+        <UniformMovementSpeed>True</UniformMovementSpeed>
+        <MovementSpeed>3</MovementSpeed>
+        <MovementSpeedX>0</MovementSpeedX>
+        <MovementSpeedY>0</MovementSpeedY>
+        <AnimationDelay>4</AnimationDelay>
+        <SpeechColor>12</SpeechColor>
+        <Solid>True</Solid>
+        <Clickable>True</Clickable>
+        <UseRoomAreaScaling>True</UseRoomAreaScaling>
+        <UseRoomAreaLighting>True</UseRoomAreaLighting>
+        <TurnBeforeWalking>True</TurnBeforeWalking>
+        <DiagonalLoops>True</DiagonalLoops>
+        <AdjustSpeedWithScaling>False</AdjustSpeedWithScaling>
+        <AdjustVolumeWithScaling>False</AdjustVolumeWithScaling>
+        <Properties />
+        <Interactions>
+          <Event Index="0" />
+          <Event Index="1" />
+          <Event Index="2" />
           <Event Index="3" />
           <Event Index="4" />
           <Event Index="5" />
@@ -2354,7 +2392,7 @@
         </Interactions>
       </Character>
     </Characters>
-    <PlayerCharacter>4</PlayerCharacter>
+    <PlayerCharacter>15</PlayerCharacter>
     <Dialogs>
       <Dialog>
         <ID>0</ID>
@@ -2469,6 +2507,41 @@ stop
             <Show>False</Show>
             <Say>False</Say>
             <EntryPointOffset>55</EntryPointOffset>
+          </DialogOption>
+        </DialogOptions>
+      </Dialog>
+      <Dialog>
+        <ID>3</ID>
+        <Name>dSiivoja1</Name>
+        <ShowTextParser>False</ShowTextParser>
+        <Script><![CDATA[// Dialog script file
+@S  // Dialog startup entry point
+return
+@1
+SIIVOJA: Terve Mauris
+EGO: Terkkari käski tulla käymään
+SIIVOJA: Kyllä. Mutta ensin sinun on korjattava windows. Löydät lasin vahtimestarilta ja muista valehdella hänelle
+stop
+]]></Script>
+        <DialogOptions />
+      </Dialog>
+      <Dialog>
+        <ID>4</ID>
+        <Name>dVahtimestari</Name>
+        <ShowTextParser>False</ShowTextParser>
+        <Script><![CDATA[// Dialog script file
+@S  // Dialog startup entry point
+return
+@1
+VAHTIMESTARI: Mitä sä täällä teet?
+]]></Script>
+        <DialogOptions>
+          <DialogOption>
+            <ID>1</ID>
+            <Text xml:space="preserve">Tarvitsen ikkunaan lasiruudun, kun tuolla on lasi rikki</Text>
+            <Show>False</Show>
+            <Say>False</Say>
+            <EntryPointOffset>-1</EntryPointOffset>
           </DialogOption>
         </DialogOptions>
       </Dialog>
@@ -4569,6 +4642,285 @@ stop
               <Sprite Slot="1503" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
               <Sprite Slot="1504" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
               <Sprite Slot="1505" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+            </Sprites>
+          </SpriteFolder>
+          <SpriteFolder Name="cMauripekkaSprites">
+            <SubFolders />
+            <Sprites>
+              <Sprite Slot="1507" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1508" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1509" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1510" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1511" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1512" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1513" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1514" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1515" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1516" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1517" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1518" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1519" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1520" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1521" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1522" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1523" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1524" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1525" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1526" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1527" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1528" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1529" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1530" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1531" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1532" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1533" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1534" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1535" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1536" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1537" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1538" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1539" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1540" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1541" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1542" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1543" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1544" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1545" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1546" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1547" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1548" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1549" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1550" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1551" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1552" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1553" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1554" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1555" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1556" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1557" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1558" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1559" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1560" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1561" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1562" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1563" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1564" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1565" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1566" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1567" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1568" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1569" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1570" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1571" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1572" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1573" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1574" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1575" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1576" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1577" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1578" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1579" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1580" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1581" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1582" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1583" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1584" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1585" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1586" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1587" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1588" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1589" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1590" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1591" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1592" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1593" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1594" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+            </Sprites>
+          </SpriteFolder>
+          <SpriteFolder Name="cTerkkariSprites">
+            <SubFolders />
+            <Sprites>
+              <Sprite Slot="1595" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1596" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1597" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1598" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1599" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1600" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1601" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1602" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1603" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1604" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1605" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1606" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1607" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1608" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1609" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1610" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1611" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1612" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1613" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1614" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1615" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1616" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1617" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1618" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1619" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1620" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1621" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1622" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1623" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1624" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1625" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1626" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1627" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1628" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1629" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1630" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1631" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1632" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1633" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1634" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1635" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1636" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1637" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1638" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1639" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1640" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1641" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1642" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1643" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1644" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1645" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1646" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1647" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1648" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1649" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1650" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1651" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1652" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1653" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1654" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1655" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1656" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1657" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1658" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1659" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1660" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1661" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1662" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1663" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1664" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1665" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1666" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1667" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1668" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1669" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1670" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1671" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1672" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1673" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1674" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1675" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1676" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1677" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1678" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1679" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1680" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1681" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1682" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+            </Sprites>
+          </SpriteFolder>
+          <SpriteFolder Name="cVahtimestariSprites">
+            <SubFolders />
+            <Sprites>
+              <Sprite Slot="1683" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1684" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1685" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1686" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1687" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1688" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1689" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1690" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1691" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1692" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1693" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1694" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1695" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1696" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1697" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1698" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1699" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1700" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1701" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1702" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1703" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1704" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1705" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1706" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1707" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1708" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1709" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1710" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1711" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1712" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1713" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1714" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1715" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1716" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1717" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1718" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1719" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1720" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1721" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1722" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1723" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1724" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1725" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1726" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1727" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1728" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1729" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1730" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1731" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1732" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1733" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1734" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1735" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1736" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1737" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1738" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1739" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1740" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1741" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1742" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1743" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1744" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1745" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1746" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1747" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1748" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1749" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1750" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1751" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1752" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1753" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1754" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1755" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1756" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1757" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1758" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1759" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1760" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1761" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1762" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1763" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1764" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1765" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1766" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1767" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1768" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1769" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
+              <Sprite Slot="1770" Width="100" Height="109" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
             </Sprites>
           </SpriteFolder>
         </SubFolders>
@@ -9694,77 +10046,77 @@ stop
                   <ViewFrame>
                     <ID>0</ID>
                     <Image>637</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>1</ID>
                     <Image>638</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>2</ID>
                     <Image>639</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>3</ID>
                     <Image>640</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>4</ID>
                     <Image>641</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>5</ID>
                     <Image>642</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>6</ID>
                     <Image>643</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>7</ID>
                     <Image>644</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>8</ID>
                     <Image>645</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>9</ID>
                     <Image>646</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>10</ID>
                     <Image>647</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
@@ -9860,77 +10212,77 @@ stop
                   <ViewFrame>
                     <ID>0</ID>
                     <Image>659</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>1</ID>
                     <Image>660</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>2</ID>
                     <Image>661</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>3</ID>
                     <Image>662</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>4</ID>
                     <Image>663</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>5</ID>
                     <Image>664</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>6</ID>
                     <Image>665</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>7</ID>
                     <Image>666</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>8</ID>
                     <Image>667</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>9</ID>
                     <Image>668</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>10</ID>
                     <Image>669</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
@@ -10109,77 +10461,77 @@ stop
                   <ViewFrame>
                     <ID>0</ID>
                     <Image>692</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>1</ID>
                     <Image>693</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>2</ID>
                     <Image>694</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>3</ID>
                     <Image>695</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>4</ID>
                     <Image>696</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>5</ID>
                     <Image>697</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>6</ID>
                     <Image>698</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>7</ID>
                     <Image>699</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>8</ID>
                     <Image>700</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>9</ID>
                     <Image>701</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>10</ID>
                     <Image>702</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
@@ -10192,77 +10544,77 @@ stop
                   <ViewFrame>
                     <ID>0</ID>
                     <Image>703</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>1</ID>
                     <Image>704</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>2</ID>
                     <Image>705</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>3</ID>
                     <Image>706</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>4</ID>
                     <Image>707</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>5</ID>
                     <Image>708</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>6</ID>
                     <Image>709</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>7</ID>
                     <Image>710</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>8</ID>
                     <Image>711</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>9</ID>
                     <Image>712</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>10</ID>
                     <Image>713</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
@@ -16292,6 +16644,2016 @@ stop
                   <ViewFrame>
                     <ID>10</ID>
                     <Image>1505</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+            </Loops>
+          </View>
+          <View>
+            <ID>20</ID>
+            <Name>MauripekkaWalk</Name>
+            <Loops>
+              <Loop>
+                <ID>0</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1507</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1508</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1509</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1510</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1511</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1512</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1513</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1514</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1515</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1516</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1517</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>1</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1518</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1519</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1520</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1521</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1522</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1523</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1524</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1525</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1526</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1527</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1528</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>2</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1529</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1530</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1531</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1532</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1533</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1534</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1535</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1536</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1537</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1538</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1539</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>3</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1540</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1541</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1542</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1543</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1544</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1545</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1546</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1547</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1548</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1549</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1550</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>4</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1551</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1552</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1553</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1554</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1555</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1556</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1557</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1558</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1559</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1560</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1561</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>5</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1562</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1563</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1564</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1565</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1566</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1567</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1568</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1569</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1570</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1571</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1572</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>6</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1573</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1574</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1575</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1576</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1577</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1578</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1579</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1580</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1581</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1582</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1583</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>7</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1584</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1585</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1586</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1587</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1588</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1589</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1590</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1591</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1592</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1593</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1594</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+            </Loops>
+          </View>
+          <View>
+            <ID>21</ID>
+            <Name>TerkkariWalk</Name>
+            <Loops>
+              <Loop>
+                <ID>0</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1595</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1596</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1597</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1598</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1599</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1600</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1601</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1602</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1603</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1604</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1605</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>1</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1606</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1607</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1608</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1609</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1610</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1611</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1612</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1613</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1614</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1615</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1616</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>2</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1617</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1618</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1619</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1620</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1621</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1622</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1623</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1624</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1625</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1626</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1627</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>3</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1628</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1629</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1630</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1631</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1632</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1633</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1634</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1635</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1636</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1637</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1638</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>4</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1639</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1640</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1641</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1642</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1643</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1644</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1645</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1646</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1647</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1648</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1649</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>5</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1650</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1651</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1652</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1653</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1654</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1655</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1656</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1657</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1658</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1659</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1660</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>6</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1661</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1662</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1663</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1664</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1665</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1666</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1667</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1668</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1669</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1670</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1671</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>7</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1672</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1673</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1674</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1675</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1676</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1677</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1678</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1679</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1680</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1681</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1682</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+            </Loops>
+          </View>
+          <View>
+            <ID>22</ID>
+            <Name>VahtimestariWalk</Name>
+            <Loops>
+              <Loop>
+                <ID>0</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1683</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1684</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1685</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1686</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1687</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1688</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1689</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1690</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1691</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1692</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1693</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>1</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1694</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1695</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1696</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1697</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1698</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1699</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1700</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1701</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1702</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1703</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1704</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>2</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1705</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1706</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1707</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1708</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1709</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1710</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1711</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1712</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1713</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1714</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1715</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>3</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1716</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1717</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1718</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1719</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1720</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1721</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1722</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1723</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1724</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1725</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1726</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>4</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1727</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1728</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1729</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1730</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1731</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1732</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1733</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1734</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1735</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1736</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1737</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>5</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1738</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1739</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1740</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1741</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1742</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1743</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1744</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1745</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1746</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1747</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1748</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>6</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1749</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1750</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1751</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1752</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1753</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1754</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1755</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1756</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1757</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1758</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1759</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>7</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>1760</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>1761</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>1762</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>1763</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>1764</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>1765</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>1766</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>1767</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>1768</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>1769</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>1770</Image>
                     <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
