@@ -683,6 +683,10 @@
         <Number>21</Number>
         <Description>Laniluola</Description>
       </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>22</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
     </Rooms>
     <GUIs>
       <GUIMain>
