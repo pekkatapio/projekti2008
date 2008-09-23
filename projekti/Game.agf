@@ -685,6 +685,54 @@
       </UnloadedRoom>
       <UnloadedRoom>
         <Number>22</Number>
+        <Description>Vahtimestarinhuone</Description>
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>24</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>25</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>26</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>27</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>28</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>29</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>30</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>31</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>32</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>33</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>34</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>35</Number>
         <Description IsNull="True" />
       </UnloadedRoom>
     </Rooms>
@@ -1872,7 +1920,7 @@
         <IdleView>0</IdleView>
         <ThinkingView>0</ThinkingView>
         <BlinkingView>0</BlinkingView>
-        <StartingRoom>20</StartingRoom>
+        <StartingRoom>24</StartingRoom>
         <StartX>95</StartX>
         <StartY>160</StartY>
         <UniformMovementSpeed>True</UniformMovementSpeed>
