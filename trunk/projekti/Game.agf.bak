@@ -1787,9 +1787,9 @@
         <AdjustVolumeWithScaling>False</AdjustVolumeWithScaling>
         <Properties />
         <Interactions>
-          <Event Index="0" />
+          <Event Index="0">cAnmu_Look</Event>
           <Event Index="1" />
-          <Event Index="2" />
+          <Event Index="2">cAnmu_Talk</Event>
           <Event Index="3" />
           <Event Index="4" />
           <Event Index="5" />
@@ -1825,7 +1825,7 @@
         <AdjustVolumeWithScaling>False</AdjustVolumeWithScaling>
         <Properties />
         <Interactions>
-          <Event Index="0" />
+          <Event Index="0">cAsd_Look</Event>
           <Event Index="1" />
           <Event Index="2" />
           <Event Index="3" />
@@ -1863,9 +1863,9 @@
         <AdjustVolumeWithScaling>False</AdjustVolumeWithScaling>
         <Properties />
         <Interactions>
-          <Event Index="0" />
+          <Event Index="0">cEsa_93_Look</Event>
           <Event Index="1" />
-          <Event Index="2" />
+          <Event Index="2">cEsa_93_Talk</Event>
           <Event Index="3" />
           <Event Index="4" />
           <Event Index="5" />
@@ -1901,7 +1901,7 @@
         <AdjustVolumeWithScaling>False</AdjustVolumeWithScaling>
         <Properties />
         <Interactions>
-          <Event Index="0" />
+          <Event Index="0">cRandom_Look</Event>
           <Event Index="1" />
           <Event Index="2" />
           <Event Index="3" />
@@ -1977,7 +1977,7 @@
         <AdjustVolumeWithScaling>False</AdjustVolumeWithScaling>
         <Properties />
         <Interactions>
-          <Event Index="0" />
+          <Event Index="0">cPedobear_Look</Event>
           <Event Index="1" />
           <Event Index="2" />
           <Event Index="3" />
@@ -2167,7 +2167,7 @@
         <AdjustVolumeWithScaling>False</AdjustVolumeWithScaling>
         <Properties />
         <Interactions>
-          <Event Index="0" />
+          <Event Index="0">cHottiskisu_Look</Event>
           <Event Index="1" />
           <Event Index="2" />
           <Event Index="3" />
@@ -2580,6 +2580,51 @@ stop
           <DialogOption>
             <ID>1</ID>
             <Text>Tervehdys</Text>
+            <Show>True</Show>
+            <Say>True</Say>
+            <EntryPointOffset>4</EntryPointOffset>
+          </DialogOption>
+        </DialogOptions>
+      </Dialog>
+      <Dialog>
+        <ID>4</ID>
+        <Name>dEsa_93</Name>
+        <ShowTextParser>False</ShowTextParser>
+        <Script><![CDATA[// Dialog script file
+@S  // Dialog startup entry point
+return
+option-on 1
+return
+@1
+ESA_93: Terve mauripekka
+stop]]></Script>
+        <DialogOptions>
+          <DialogOption>
+            <ID>1</ID>
+            <Text>Tervehdys</Text>
+            <Show>True</Show>
+            <Say>True</Say>
+            <EntryPointOffset>5</EntryPointOffset>
+          </DialogOption>
+        </DialogOptions>
+      </Dialog>
+      <Dialog>
+        <ID>5</ID>
+        <Name>dAnmu</Name>
+        <ShowTextParser>False</ShowTextParser>
+        <Script><![CDATA[// Dialog script file
+@S  // Dialog startup entry point
+option-on 1
+return
+@1
+ANMU: Moi Mauripekka
+ANMU: Onko mennyt hyvin päivä?
+EGO: Kyl se tässä. Koitan tutkia ongelmaani.
+stop]]></Script>
+        <DialogOptions>
+          <DialogOption>
+            <ID>1</ID>
+            <Text xml:space="preserve">Terve Anmu</Text>
             <Show>True</Show>
             <Say>True</Say>
             <EntryPointOffset>4</EntryPointOffset>
