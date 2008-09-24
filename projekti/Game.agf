@@ -735,6 +735,14 @@
         <Number>35</Number>
         <Description IsNull="True" />
       </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>23</Number>
+        <Description>Kone1</Description>
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>36</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
     </Rooms>
     <GUIs>
       <GUIMain>
@@ -2415,8 +2423,8 @@
         <ThinkingView>0</ThinkingView>
         <BlinkingView>0</BlinkingView>
         <StartingRoom>22</StartingRoom>
-        <StartX>215</StartX>
-        <StartY>240</StartY>
+        <StartX>205</StartX>
+        <StartY>232</StartY>
         <UniformMovementSpeed>True</UniformMovementSpeed>
         <MovementSpeed>3</MovementSpeed>
         <MovementSpeedX>0</MovementSpeedX>
@@ -2444,7 +2452,7 @@
         </Interactions>
       </Character>
     </Characters>
-    <PlayerCharacter>4</PlayerCharacter>
+    <PlayerCharacter>17</PlayerCharacter>
     <Dialogs>
       <Dialog>
         <ID>0</ID>
